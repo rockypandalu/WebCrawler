@@ -1,8 +1,5 @@
-import urllib
 import urllib2
 import re
-import thread
-import time
 
 class JokeCrawler:
     def __init__(self):
